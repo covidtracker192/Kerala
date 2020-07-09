@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "382224399385",
+    "firebase_url": "https://kerala-3b4b6.firebaseio.com",
+    "project_id": "kerala-3b4b6",
+    "storage_bucket": "kerala-3b4b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:382224399385:android:4a80c62cdad0c01a03be88",
+        "android_client_info": {
+          "package_name": "com.covid19.kerala"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "382224399385-tukmvkcjdjscd8jmi0jrur4bue4qs8r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.kerala",
+            "certificate_hash": "423cc1b7b474d761f16f68a8e3345bda1027bd42"
+          }
+        },
+        {
+          "client_id": "382224399385-8ni9ducte7eis4oci8eva0i1qvookvo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.kerala",
+            "certificate_hash": "1075cc02aac469cd5b05af7c07b9ae93be1e542d"
+          }
+        },
+        {
+          "client_id": "382224399385-d85lcvihn5lcmjt8jdg8pv3sl8gf42ea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXQ6Ltoa84K6uhngO0Cu6bPrWqqBnh5Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "382224399385-d85lcvihn5lcmjt8jdg8pv3sl8gf42ea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

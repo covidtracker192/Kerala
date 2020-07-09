@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "382224399385-8ni9ducte7eis4oci8eva0i1qvookvo5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.covid19.kerala",
+            "certificate_hash": "1075cc02aac469cd5b05af7c07b9ae93be1e542d"
+          }
+        },
+        {
           "client_id": "382224399385-d85lcvihn5lcmjt8jdg8pv3sl8gf42ea.apps.googleusercontent.com",
           "client_type": 3
         }
